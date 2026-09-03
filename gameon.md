@@ -29,11 +29,11 @@
 
 **ii Product Outcomes Set**
 
-**1. Increase Referral Discovery & Triggering ($P$):** Move participation rate from 12% to 25% by integrating contextual in-game triggers.  
+**1. Increase Referral Discovery & Triggering ($P$):** Move participation rate from **12%** to **25%** by integrating contextual in-game triggers.  
 
 **2. Increase Sharing Velocity ($S$):** Increase invites per user from 1.1 to 3+ by leveraging frictionless social channels (WhatsApp, direct deep links).  
 
-**3. Boost Invite-to-Install Conversion ($C$):** Elevate conversion from 2.4% to 6%+ via personalized landing screens and double-sided, high-value incentives.  
+**3. Boost Invite-to-Install Conversion ($C$):** Elevate conversion from **2.4%** to **6%+** via personalized landing screens and double-sided, high-value incentives.  
 
 **4. Drive High-Quality User Activation ($E$):** Ensure new users reach "Day 1 Activation" (e.g., playing 3 casual matches) rather than just downloading and abandoning the app.
 
@@ -41,7 +41,7 @@
 
 **i Focus Product Outcomes**
 
-Given GameOn’s funding crunch and goal to lower the $2.50 CAC via organic acquisition, the primary focus should be on:
+Given GameOn’s funding crunch and goal to lower the **$2.50 CAC** via organic acquisition, the primary focus should be on:
 
 **Priority 1: Referral Participation Rate ($P$) — Currently 12%**
 
@@ -84,9 +84,9 @@ Following Andrew Chen’s growth principles—focusing on double-sided loops, so
 
 - **Mechanism:** Move away from flat rewards. Introduce a visual progress bar:
   
-  - 1 Referral: 500 Coins + 3 Power-ups
-  - 3 Referrals: 3 Days of Ad-Free Premium Pass
-  - 5 Referrals: Exclusive Limited-Edition Character/Skin (Social flex)
+  - _1 Referral:_ 500 Coins + 3 Power-ups
+  - _3 Referrals:_ 3 Days of Ad-Free Premium Pass
+  - _5 Referrals:_ Exclusive Limited-Edition Character/Skin (Social flex)
   
 - **Why it works:** Gamifies the referral process for the referrer, driving higher share density per user ($S$).
 
@@ -96,13 +96,15 @@ Following Andrew Chen’s growth principles—focusing on double-sided loops, so
 
   - Immediately after a user sets a new personal high score.
   - After receiving a daily login streak bonus.
-  - Prompt wording: "You're on a 5-game winning streak! Gift a 1-Day Pass to a friend to join your squad.
+  - Prompt wording: "_You're on a 5-game winning streak! Gift a 1-Day Pass to a friend to join your squad._"
     
 - **Why it works:** Increases participation ($P$) by capitalizing on user satisfaction.
 
 **Idea 4: Dynamic & Personalized Recipient Landing**
 
-- **Mechanism:** When the recipient clicks the link, the App Store / First-Open screen displays: "[Friend's Name] sent you 500 Coins & challenged you to a Puzzle Duel!
+- **Mechanism:** When the recipient clicks the link, the App Store / First-Open screen displays:
+
+  "_[Friend's Name] sent you 500 Coins & challenged you to a Puzzle Duel!_"
 
 - **Why it works:** Provides immediate social proof and context, reducing drop-offs between download and registration to boost conversion ($C$).
 
