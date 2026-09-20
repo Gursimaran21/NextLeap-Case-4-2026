@@ -109,4 +109,4 @@ As a product manager on the team, try to answer the following questions:
 
 Being an Andrew Chen fan, you are currently reading this blogpost - (https://andrewchen.com/how-to-design-a-referral-program/) of his.
 
-## **Click on** **[GameOn](gameon.md)**
+## Click on [GameOn](gameon.md)
